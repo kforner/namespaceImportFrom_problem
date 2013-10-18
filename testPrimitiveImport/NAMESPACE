@@ -1,0 +1,2 @@
+import(testPrimitiveExport1)
+import(testPrimitiveExport2)

@@ -1,0 +1,14 @@
+Package: testPrimitiveImport
+Title: reproduce import primitive bug 
+Version: 0.1
+Description: reproduce import primitive bug 
+Author: Karl Forner <karl.forner@quartzbio.com>
+Maintainer: Karl Forner <karl.forner@quartzbio.com>
+Depends:
+    R (>= 2.15)
+Imports:
+    methods,
+    testPrimitiveExport1,
+    testPrimitiveExport2
+License: GPL (>= 2)
+Collate: all.r
